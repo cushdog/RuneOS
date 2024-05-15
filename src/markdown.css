@@ -1,0 +1,36 @@
+/* 
+    The following link has very useful css stylings of the html tags for markdown rendering
+    https://stackoverflow.com/questions/63828162/table-tag-is-not-highlighting-or-rendering-in-react-markdown
+*/
+.checkpoint-markdowns-container{
+    padding: 0 5.5rem;
+}
+
+.checkpoint-markdowns-container table{
+    border-spacing: 1px;
+    border-collapse: collapse;
+    border: 1px solid #c6cbd1;
+}
+
+.checkpoint-markdowns-container th,
+.checkpoint-markdowns-container td{
+    padding: 8px 16px !important;
+    border: 1px solid #c6cbd1;
+}
+  
+.checkpoint-markdowns-container tr:nth-child(2n) {
+    background: #f6f8fa !important;
+}
+
+
+@media screen and (max-width: 400px) {
+    .checkpoint-markdowns-container{
+        padding: 0 10px;
+    }
+
+    .checkpoint-markdowns-container th,
+    .checkpoint-markdowns-container td{
+        padding: 4px 8px !important;
+        border: 1px solid #c6cbd1;
+    }
+}
