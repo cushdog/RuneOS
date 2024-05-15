@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RuneOS/static/css/main.483bd7e7.css",
+    "main.js": "/RuneOS/static/js/main.709fdf56.js",
+    "static/js/27.9fa0fa69.chunk.js": "/RuneOS/static/js/27.9fa0fa69.chunk.js",
+    "static/media/mp3.img": "/RuneOS/static/media/mp3.23dc3211454d34247c77.img",
+    "static/media/v86.wasm": "/RuneOS/static/media/v86.941de40e1108d367cf1a.wasm",
+    "static/media/bootstrap-icons.woff?": "/RuneOS/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/seabios.bin": "/RuneOS/static/media/seabios.b591bc59c4d40f631321.bin",
+    "static/media/bootstrap-icons.woff2?": "/RuneOS/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/vgabios.bin": "/RuneOS/static/media/vgabios.f22c186dcc24b6290079.bin",
+    "static/media/WebPlus_IBM_VGA_9x16.woff": "/RuneOS/static/media/WebPlus_IBM_VGA_9x16.34633851ff87c8ed9ca5.woff",
+    "static/media/meanpaper_avatar.png": "/RuneOS/static/media/meanpaper_avatar.2a63dd4b80597646a3c5.png",
+    "static/media/Web437_IBM_VGA_8x16.woff": "/RuneOS/static/media/Web437_IBM_VGA_8x16.a2517e447250544a5fbe.woff",
+    "static/media/hopeforcpp.svg": "/RuneOS/static/media/hopeforcpp.32a9fcf5fa646a7cb1138f9f6246b56a.svg",
+    "static/media/logo.svg": "/RuneOS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RuneOS/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.483bd7e7.css",
+    "static/js/main.709fdf56.js"
+  ]
+}
